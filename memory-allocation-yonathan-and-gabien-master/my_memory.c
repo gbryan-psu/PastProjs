@@ -1,3 +1,6 @@
+//Authours: Gabien Bryan and Yonathan Daniel
+//This file has all of our coding effort
+
 // Include files
 #include <stdio.h>
 #include <stdlib.h>
