@@ -1,11 +1,12 @@
 # PastProjs
 Past College Projects
 
-** == Files that have my code within projects
+***TEXT*** == Files that have my code within projects
 
-Group Projects - 
-    memory-allocation-yonathan-and-gabien-master (**my_memory.c**) \n
-    thread-schedulers-yonathan-and-gabien-master (**scheduler.c**) \n
-    vm-paging-yonathan-and-gabien-master (**473_mm**) \n
+Group Projects -  
+    memory-allocation-yonathan-and-gabien-master (***my_memory.c***)  
+    thread-schedulers-yonathan-and-gabien-master (***scheduler.c***)  
+    vm-paging-yonathan-and-gabien-master (***473_mm***)  
   
- Solo Projects - 
+ Solo Projects -  
+    Robot Car (***myCar.c***)  
