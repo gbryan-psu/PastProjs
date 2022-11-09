@@ -11,3 +11,7 @@ Group Projects -
   -  Robot Car (<em><strong><ins>myCar.c</em></strong></ins>)  
   -  Breadboard Dimming Lights (<em><strong><ins>dimming1.c dimming2.c</em></strong></ins>)
   -  Learning Assembly Language (<em><strong><ins>learnAL.asm</em></strong></ins>)
+  
+HomeWork Solutions - 
+  -  puzzles.py
+  -  spamFilter.py
